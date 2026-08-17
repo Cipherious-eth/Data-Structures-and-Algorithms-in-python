@@ -1,2 +1,2 @@
-# Data-Structures----Algorithms--in-python
+# Data-Structures-and-Algorithms--in-python
 implementing common in built methods in python manually
